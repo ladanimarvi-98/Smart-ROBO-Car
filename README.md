@@ -6,7 +6,7 @@ Smart ROBO Car is an IoT and embedded systems based robotic vehicle developed to
 
 The project uses an Arduino UNO as the main controller to process commands and sensor data in real time. The robotic car is capable of detecting obstacles using an ultrasonic sensor and changing direction automatically to avoid collisions. It can also be controlled wirelessly through a mobile device using Bluetooth communication and voice instructions.
 
-This project demonstrates the integration of IoT concepts, automation, sensors, actuators, and embedded systems to build a smart and efficient robotic system for real-world applications. :contentReference[oaicite:0]{index=0}
+This project demonstrates the integration of IoT concepts, automation, sensors, actuators, and embedded systems to build a smart and efficient robotic system for real-world applications. 
 
 ## Key Features :
 
